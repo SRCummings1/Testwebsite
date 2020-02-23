@@ -33,8 +33,8 @@ body {
       flex-wrap: wrap;
   }
 
-  .home{
-      background-image: url('https://github.com/SRCummings1/Testwebsite/blob/gh-pages/images/night.jpg');
+  .home{                     
+      background-image: url("https://github.com/SRCummings1/Testwebsite/blob/gh-pages/images/night.jpg");
       min-height: 100vh;
       background-size: cover;
       background-position: center;
