@@ -10,9 +10,10 @@ body {
     font-family:  'Open Sans', sans-serif;
   }
 
-a {
+  a {
     color: yellowgreen;
-}
+  }  
+  
 
 *{
     box-sizing: border-box;
